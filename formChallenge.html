@@ -10,6 +10,8 @@
 <body>
     <h3>Apartment Search</h3>
     <br>
+
+    <!-- Text based form -->
     <form action="" method="post">
         <label for="location">Location</label>
         <input type="text" name="Location" id="Location" placeholder="Bandung" required>
@@ -21,6 +23,19 @@
         <button type="submit">Submit</button>
 
     </form>
+
+    <!-- Select based form -->
+    <form action="">
+        <select name="job" id="job" multiple size="3">
+            <option value="tech">Tech</option>
+            <option value="eng">Eng</option>
+            <option value="clerk">Clerk</option>
+        </select>
+        <br>
+        <textarea name="message" id="message" rows="8" cols="30">Write your message...</textarea>
+
+    </form>
+
 </body>
 
 </html>
