@@ -3,3 +3,7 @@ body {
     font-size: 18px;
     line-height: 1.6;
 }
+
+header {
+    background-color: #5e175b;
+}
