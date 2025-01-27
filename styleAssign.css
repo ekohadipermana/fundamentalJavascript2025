@@ -33,6 +33,14 @@ ul {
     padding: 0;
 }
 
-section {
+.main-menu {
     background-color: #f4f4f4;
+    text-transform: uppercase;
+    text-indent: 10px;
+}
+
+.lead-paragraph {
+    font-weight: bold;
+    font-size: 20px;
+    color: rebeccapurple;
 }
