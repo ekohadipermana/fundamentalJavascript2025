@@ -27,3 +27,12 @@ a:hover {
 a:active {
     color: red;
 }
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+section {
+    background-color: #f4f4f4;
+}
