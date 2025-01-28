@@ -7,6 +7,7 @@
 
 body {
     font-family: "Lato", sans-serif;
+    background: #f1f1f1;
 }
 
 .container {
@@ -31,4 +32,13 @@ body {
 .card p {
     font-size: 15px;
     margin-bottom: 30px;
+}
+
+.card input[type="text"] {
+    width: 100%;
+    padding: 15px 10px;
+    font-size: large;
+    border: none;
+    background: #f1f1f1;
+
 }
