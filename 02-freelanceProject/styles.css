@@ -21,6 +21,7 @@ body {
     border-radius: 5px;
     text-align: center;
     padding: 60px 50px;
+    box-shadow: 10px 10px 6px rgba(0, 0, 0, 0.4);
 }
 
 .card h3 {
@@ -51,7 +52,16 @@ body {
     width: 100%;
     padding: 15px 10px;
     font-size: large;
+    border: none;
     background: linear-gradient(90deg,
             rgba(242, 132, 62, 1) 21%,
             rgba(239, 111, 69, 1) 61%);
+    color: white;
+    cursor: pointer;
+}
+
+.card button:hover {
+    background: linear-gradient(90deg,
+            rgba(202, 132, 62, 1) 21%,
+            rgba(210, 111, 69, 1) 61%);
 }
