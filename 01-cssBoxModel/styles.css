@@ -13,3 +13,9 @@ h1 {
     border: 3px solid green;
     margin: 10px;
 }
+
+.box-1 {
+    width: 200px;
+    height: 100px;
+    overflow: scroll;
+}
