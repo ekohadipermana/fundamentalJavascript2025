@@ -18,8 +18,25 @@ header {
 nav {
     display: flex;
     justify-content: flex-start;
-    gap: 10px;
+    gap: 20px;
     padding: 10px;
     font-size: 12px;
     background: rgb(209, 202, 202);
+}
+
+main {
+    padding: 30px;
+}
+
+main h3 {
+    margin-bottom: 20px;
+}
+
+.main-page {
+    display: flex;
+}
+
+.content p {
+    line-height: 1.5rem;
+    max-width: 70vw;
 }
