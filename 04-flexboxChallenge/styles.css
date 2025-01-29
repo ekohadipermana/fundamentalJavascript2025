@@ -40,3 +40,20 @@ main h3 {
     line-height: 1.5rem;
     max-width: 70vw;
 }
+
+.recent-posts {
+    padding: 20px;
+}
+
+.recent-posts h4 {
+    background: coral;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.recent-posts p {
+    background: rgb(209, 202, 202);
+    padding: 5px;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
