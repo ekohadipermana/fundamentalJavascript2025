@@ -19,11 +19,21 @@ body {
     border-radius: 10px;
     background: #a09999;
     margin-bottom: 20px;
-    padding: 15px;
+    padding: 20px;
 }
 
 .cards h2 {
     font-size: 25px;
     margin-bottom: 10px;
     font-weight: lighter;
+}
+
+.cards p {
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.cards a {
+    text-decoration: none;
+    font-size: 15px;
 }
