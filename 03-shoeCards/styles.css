@@ -39,6 +39,11 @@ body {
     color: antiquewhite;
 }
 
+.cards a:hover {
+    color: white;
+    background: red;
+}
+
 .sporty h2 {
     color: rgb(190, 88, 19);
 }
@@ -67,4 +72,16 @@ body {
     background: black;
     padding: 5px;
     border-radius: 5px;
+}
+
+.sporty {
+    background: white url('theimage.jpg') no-repeat center right/150px;
+}
+
+.casual {
+    background: white url('theimage.jpg') no-repeat center right/150px;
+}
+
+.formal {
+    background: white url('theimage.jpg') no-repeat center right/150px;
 }
