@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body {
+    background: purple;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.card {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background: peachpuff;
+    padding: 20px;
+}
+
+.card h4 {
+    background: whitesmoke;
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
