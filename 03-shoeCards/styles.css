@@ -5,26 +5,10 @@
 }
 
 body {
-    background: aquamarine;
+    background: rgb(90, 109, 145);
 }
 
 .container {
-    width: 70vw;
-    margin-top: 50px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.cards {
-    background-color: whitesmoke;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    padding: 20px;
-    background: #fff url("theimage.jpg") no-repeat center right/100px;
-}
-
-.cards h2 {
-    font-family: sans-serif;
-    font-size: 20px;
-    font-weight: lighter;
+    margin: 50px auto;
+    padding: 30px;
 }
