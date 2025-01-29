@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background: coral;
+    padding: 20px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    padding: 10px;
+    font-size: 12px;
+    background: rgb(209, 202, 202);
+}
