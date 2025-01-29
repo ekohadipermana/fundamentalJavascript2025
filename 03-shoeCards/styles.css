@@ -19,4 +19,12 @@ body {
     background-color: whitesmoke;
     border-radius: 10px;
     margin-bottom: 20px;
+    padding: 20px;
+    background: #fff url("theimage.jpg") no-repeat center right/100px;
+}
+
+.cards h2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
 }
