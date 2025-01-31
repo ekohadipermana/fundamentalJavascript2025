@@ -51,11 +51,15 @@ main {
 .form input, .form textarea {
     width: 100%;
     border-radius: 5px;
-    border-style: none;
+    border: none;
 }
 
-.form textarea {
-    
+.form button {
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    font-size: 10px;
+    width: 100%;
 }
 
 .form label {
