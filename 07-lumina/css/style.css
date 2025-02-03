@@ -36,3 +36,8 @@ header {
 nav ul {
     display: flex;
 }
+
+a {
+    padding: 20px;
+}
+
