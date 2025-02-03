@@ -30,7 +30,7 @@ header {
     width: 130px;
 }
 
-nav {
+nav ul {
     display: flex;
-    
+
 }
