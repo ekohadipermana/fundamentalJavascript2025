@@ -29,3 +29,8 @@ header {
 .logo {
     width: 130px;
 }
+
+nav {
+    display: flex;
+    
+}
